@@ -23,7 +23,6 @@
 > make                 # 只编译源码
 > make mykernel.bin    # 编译二进制文件
 > make mykernel.iso    # 生成.iso虚拟盘
-> make install         # 下载文件到boot目录下             (没啥用的)
 > make run             # 编译并运行，默认使用virtualbox虚拟机运行
 > make clean           # 清除编译产生的对象文件以及可执行文件
 ```
